@@ -46,6 +46,11 @@ Please do not submit pull requests with new features or core library changes. In
 - Extensible test framework
 - Support for loading world dumps
 
+## Building Box2D - PSVITA
+- Install Dolcesdk or Vitasdk
+- Run either vita_dolcesdk_build.sh or vita_vitasdk_build.sh
+- Done.
+
 ## Building
 - Install [CMake](https://cmake.org/)
 - Ensure CMake is in the user `PATH`
